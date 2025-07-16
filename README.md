@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
