@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Tree
 |  |
