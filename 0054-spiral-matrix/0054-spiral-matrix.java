@@ -1,32 +1,38 @@
 class Solution {
-  public List<Integer> spiralOrder(int[][] matrix) {
-    if (matrix.length == 0)
-      return new ArrayList<>();
+    public List<Integer> spiralOrder(int[][] matrix) {
+        
+        List<Integer> ans=new ArrayList<>();
 
-    final int m = matrix.length;
-    final int n = matrix[0].length;
-    List<Integer> ans = new ArrayList<>();
-    int r1 = 0;
-    int c1 = 0;
-    int r2 = m - 1;
-    int c2 = n - 1;
+        int rs=0;
+        int re=matrix.length-1;
+        int cls=0;
+        int cle=matrix[0].length-1;
 
-    // Repeatedly add matrix[r1..r2][c1..c2] to `ans`.
-    while (ans.size() < m * n) {
-      for (int j = c1; j <= c2 && ans.size() < m * n; ++j)
-        ans.add(matrix[r1][j]);
-      for (int i = r1 + 1; i <= r2 - 1 && ans.size() < m * n; ++i)
-        ans.add(matrix[i][c2]);
-      for (int j = c2; j >= c1 && ans.size() < m * n; --j)
-        ans.add(matrix[r2][j]);
-      for (int i = r2 - 1; i >= r1 + 1 && ans.size() < m * n; --i)
-        ans.add(matrix[i][c1]);
-      ++r1;
-      ++c1;
-      --r2;
-      --c2;
+        while(cls<=cle && rs<=re){
+            for(int i=cls;i<=cle;i++){
+                ans.add(matrix[rs][i]);
+            }
+            rs++;
+
+            for(int i=rs;i<=re;i++){
+                ans.add(matrix[i][cle]);
+            }
+            cle--;
+
+            if(rs<=re){
+                for(int i=cle;i>=cls;i--){
+                    ans.add(matrix[re][i]);
+                }
+                re--;
+
+                if(cls<=cle){
+                    for(int i=re;i>=rs;i--){
+                        ans.add(matrix[i][cls]);
+                    }
+                    cls++;
+                }
+            }
+        }
+            return ans;
+        }
     }
-
-    return ans;
-  }
-}
