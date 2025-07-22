@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
@@ -95,8 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Counting Sort
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
