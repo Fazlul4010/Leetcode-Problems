@@ -76,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [1899-count-items-matching-a-rule](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0001-two-sum) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
 | ------- |
