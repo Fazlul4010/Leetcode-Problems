@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 ## Sorting
