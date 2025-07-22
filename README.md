@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [1899-count-items-matching-a-rule](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -225,9 +229,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
