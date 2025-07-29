@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0136-single-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0139-word-break) |
