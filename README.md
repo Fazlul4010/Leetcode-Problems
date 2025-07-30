@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3617-find-the-original-typed-string-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Hash Table
 |  |
