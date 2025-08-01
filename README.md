@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3639-zero-array-transformation-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3778-transform-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [3778-transform-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Tree
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3778-transform-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
