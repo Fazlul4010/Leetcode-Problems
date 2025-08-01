@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [0941-sort-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0941-sort-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
