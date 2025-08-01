@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0561-array-partition](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Divide and Conquer
 |  |
