@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [1899-count-items-matching-a-rule](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
