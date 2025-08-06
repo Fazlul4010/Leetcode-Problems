@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3639-zero-array-transformation-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3778-transform-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
+| [3790-fruits-into-baskets-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3790-fruits-into-baskets-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -319,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1666-make-the-string-great) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
