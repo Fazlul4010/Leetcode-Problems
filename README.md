@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
