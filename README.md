@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0898-transpose-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [1899-count-items-matching-a-rule](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
