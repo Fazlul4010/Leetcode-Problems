@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1651-shuffle-string](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1666-make-the-string-great) |
 | [1899-count-items-matching-a-rule](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -308,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
