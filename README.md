@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [3639-zero-array-transformation-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3778-transform-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3639-zero-array-transformation-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
