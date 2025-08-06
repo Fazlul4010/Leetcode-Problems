@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [1168-duplicate-zeros](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1168-duplicate-zeros) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1168-duplicate-zeros](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1168-duplicate-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
