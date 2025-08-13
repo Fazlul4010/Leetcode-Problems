@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0826-soup-servings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0826-soup-servings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
