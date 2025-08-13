@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [3639-zero-array-transformation-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3778-transform-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2529-range-product-queries-of-powers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [3639-zero-array-transformation-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
