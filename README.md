@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0826-soup-servings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0826-soup-servings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0148-sort-list) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
