@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Matrix
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0826-soup-servings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
