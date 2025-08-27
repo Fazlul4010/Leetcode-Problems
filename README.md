@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2529-range-product-queries-of-powers](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0948-sort-an-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0940-fruit-into-baskets](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
