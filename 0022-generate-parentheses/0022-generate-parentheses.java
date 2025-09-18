@@ -5,7 +5,7 @@ class Solution {
         paranThesis(sb,n,0,0,ans);
         return ans;
     }
-    static void paranThesis(StringBuilder sb,int n, int open, int close, List<String> ans){
+    private static void paranThesis(StringBuilder sb,int n, int open, int close, List<String> ans){
         if (close ==n){
             ans.add(sb.toString());
             return;
