@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
