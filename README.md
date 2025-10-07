@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting Sort
