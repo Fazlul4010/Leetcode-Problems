@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0175-combine-two-tables) |
+| [0196-delete-duplicate-emails](https://github.com/Fazlul4010/Leetcode-Problems/tree/master/0196-delete-duplicate-emails) |
 ## Interactive
 |  |
 | ------- |
